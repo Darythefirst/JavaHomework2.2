@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        int mobileAccount = 100;  //начальная сумма на счете абонента
-        int payment = 1100;    // сумма пополнения
+        int mobileAccount = 500;  //начальная сумма на счете абонента
+        int payment = 1200;    // сумма пополнения
         int bonusRub;   //сумма бонусных рублей
         int totalAccount;   //итоговая сумма
 
